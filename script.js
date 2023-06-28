@@ -47,8 +47,7 @@ bmiBtn.addEventListener('click', function(){
         descTxt.style.color="red"
     } else if (bmiVal>=30){
         descTxt.textContent="Obese. and a extra fucking weight to the earth."
-        descTxt.style.color="white"
-        document.body.style.backgroundColor="red"
+        descTxt.style.color="Red"
         
     }
 })
