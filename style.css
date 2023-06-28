@@ -1,0 +1,13 @@
+#indicator{
+    position:absolute;
+    left:130px;
+    transform-origin: bottom;
+    transform:rotate(-90deg);
+}
+ body{
+    font-family:'poppins';
+ }
+
+ #desc{
+    text-transform:uppercase;
+ }
